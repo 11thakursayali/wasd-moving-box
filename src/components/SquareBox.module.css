@@ -1,0 +1,16 @@
+.boxContainer{
+    height: 200px;
+    width: 200px;
+    border: 1px solid blueviolet;
+    position: absolute;
+    /* top: 0px;
+    left: 0px; */
+    background: rgb(236, 176, 176);
+    text-align: center;
+    vertical-align: middle;
+
+}
+.boxContainer:focus{
+
+    border:2px solid blue;
+}
